@@ -6,7 +6,7 @@
 
 This project was about using **Euler's method** in terms of analysis of an electric bicycle and its distance over time.
 
-The code within the documentation differs from that within the [Code](Code/) folder represent different analysis of simulations of the bicycle.
+The code within the [Code](Code/) folder represent different analysis of simulations of the bicycle.
 
 ## How to Run
 
